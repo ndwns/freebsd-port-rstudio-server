@@ -1,0 +1,4 @@
+r-core-source=%%PREFIX%%/share/rstudio/R
+r-modules-source=%%PREFIX%%/share/rstudio/R/modules
+r-session-packages=%%PREFIX%%/share/rstudio/R/library
+r-resources-path=%%PREFIX%%/share/rstudio/resources

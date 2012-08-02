@@ -1,0 +1,86 @@
+bin/postback/askpass-passthrough
+bin/postback/rpostback-askpass
+bin/postback/rpostback-editfile
+bin/postback/rpostback-gitssh
+bin/postback/rpostback-pdfviewer
+bin/r-ldpath
+bin/rpostback
+bin/rserver
+bin/rserver-pam
+bin/rsession
+bin/rspdflatex
+share/rstudio/COPYING
+share/rstudio/INSTALL
+share/rstudio/NOTICE
+share/rstudio/R/Options.R
+share/rstudio/R/ServerOptions.R
+share/rstudio/R/Tools.R
+share/rstudio/R/library/manipulate/DESCRIPTION
+share/rstudio/R/library/manipulate/INDEX
+share/rstudio/R/library/manipulate/Meta/Rd.rds
+share/rstudio/R/library/manipulate/Meta/hsearch.rds
+share/rstudio/R/library/manipulate/Meta/links.rds
+share/rstudio/R/library/manipulate/Meta/nsInfo.rds
+share/rstudio/R/library/manipulate/Meta/package.rds
+share/rstudio/R/library/manipulate/NAMESPACE
+share/rstudio/R/library/manipulate/R/manipulate
+share/rstudio/R/library/manipulate/R/manipulate.rdb
+share/rstudio/R/library/manipulate/R/manipulate.rdx
+share/rstudio/R/library/manipulate/help/AnIndex
+share/rstudio/R/library/manipulate/help/aliases.rds
+share/rstudio/R/library/manipulate/help/manipulate.rdb
+share/rstudio/R/library/manipulate/help/manipulate.rdx
+share/rstudio/R/library/manipulate/help/paths.rds
+share/rstudio/R/library/manipulate/html/00Index.html
+share/rstudio/R/library/manipulate/html/R.css
+share/rstudio/R/modules/ModuleTools.R
+share/rstudio/R/modules/SessionAskPass.R
+share/rstudio/R/modules/SessionAuthoring.R
+share/rstudio/R/modules/SessionCodeTools.R
+share/rstudio/R/modules/SessionConsole.R
+share/rstudio/R/modules/SessionData.R
+share/rstudio/R/modules/SessionFiles.R
+share/rstudio/R/modules/SessionHTMLPreview.R
+share/rstudio/R/modules/SessionHelp.R
+share/rstudio/R/modules/SessionPackages.R
+share/rstudio/R/modules/SessionRPubs.R
+share/rstudio/R/modules/SessionSource.R
+share/rstudio/R/modules/SessionSpelling.R
+share/rstudio/R/modules/SessionWorkspace.R
+share/rstudio/README.md
+share/rstudio/SOURCE
+share/rstudio/resources/R.css
+share/rstudio/resources/agpl-3.0-standalone.html
+share/rstudio/resources/dictionaries/en_AU.aff
+share/rstudio/resources/dictionaries/en_AU.dic
+share/rstudio/resources/dictionaries/en_AU.dic_delta
+share/rstudio/resources/dictionaries/en_CA.aff
+share/rstudio/resources/dictionaries/en_CA.dic
+share/rstudio/resources/dictionaries/en_CA.dic_delta
+share/rstudio/resources/dictionaries/en_GB.aff
+share/rstudio/resources/dictionaries/en_GB.dic
+share/rstudio/resources/dictionaries/en_GB.dic_delta
+share/rstudio/resources/dictionaries/en_US.aff
+share/rstudio/resources/dictionaries/en_US.dic
+share/rstudio/resources/dictionaries/en_US.dic_delta
+share/rstudio/resources/markdown.css
+share/rstudio/resources/markdown.html
+share/rstudio/resources/markdown_help.html
+share/rstudio/resources/mathjax.html
+share/rstudio/resources/r_highlight.html
+share/rstudio/resources/templates/r_documentation.Rd
+share/rstudio/resources/templates/r_documentation_empty.Rd
+share/rstudio/resources/templates/r_html.Rhtml
+share/rstudio/resources/templates/r_markdown.Rmd
+@dirrm share/rstudio/resources/templates
+@dirrm share/rstudio/resources/dictionaries
+@dirrm share/rstudio/resources
+@dirrm share/rstudio/R/modules
+@dirrm share/rstudio/R/library/manipulate/html
+@dirrm share/rstudio/R/library/manipulate/help
+@dirrm share/rstudio/R/library/manipulate/R
+@dirrm share/rstudio/R/library/manipulate/Meta
+@dirrm share/rstudio/R/library/manipulate
+@dirrm share/rstudio/R/library
+@dirrm share/rstudio/R
+@dirrm share/rstudio
